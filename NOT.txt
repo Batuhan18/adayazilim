@@ -1,0 +1,5 @@
+Trende 4 farklı vagon bulunmaktadır. Vagonların kapasiteleri farklıdır. Veritabanından vagon isimleri ve 
+kapasite türleri çekilmiştir. Kişisel bilgiler ve iletişim bilgileri veritabanına eklenmemiştir. 
+
+
+NOT: Yaz okulunda aldığım derslerin final sınavlarından dolayı proje birazcık gecikmiştir.
